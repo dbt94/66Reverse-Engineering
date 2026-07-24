@@ -10,7 +10,8 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# ELECTRONIC BADGE - CLICK IMAGE BELOW!
+# ELECTRONIC HACKER BADGE ON SALE [HERE](https://www.tindie.com/products/mytechnotalent/ouroboros-badge) FOR $29.99!
+#### CLICK IMAGE BELOW TO WATCH THE PROMO VIDEO!
 <p align="center">
   <a href="https://www.youtube.com/watch?v=p2e2szCZjus">
     <img src="https://img.youtube.com/vi/p2e2szCZjus/maxresdefault.jpg" alt="WATCH THE VIDEO" width="600">
@@ -19,9 +20,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [July 21, 2026]
-## Lesson 251: Hacking Rust Course (Chapter 6: Hacking Scalar Data Types)
-This chapter covers hacking scalar data types within a Rust program for the x64 architecture.
+# Today's Tutorial [July 23, 2026]
+## Lesson 253: Hacking Rust Course (Chapter 8: Debugging Compound Data Types)
+This chapter covers debugging compound data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
@@ -41,8 +42,7 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 # Cryptography
-## Encryption [HERE](https://github.com/mytechnotalent/encryption)
-## Encryption-C-RP2350 [HERE](https://github.com/mytechnotalent/encryption-c-rp2350)
+## The Ouroboros Engine [HERE](https://github.com/mytechnotalent/ouroboros)
 
 <br>
 
