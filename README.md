@@ -10,7 +10,8 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# ELECTRONIC HACKER BADGE ON SALE [HERE](https://www.tindie.com/products/mytechnotalent/ouroboros-badge) FOR $29.99!
+# ELECTRONIC HACKER BADGE [HERE](https://www.tindie.com/products/mytechnotalent/ouroboros-badge)
+#### HOW IT WORKS [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Ouroboros_How_It_Works.pdf)
 #### CLICK IMAGE BELOW TO WATCH THE PROMO VIDEO!
 <p align="center">
   <a href="https://www.youtube.com/watch?v=p2e2szCZjus">
@@ -20,9 +21,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [July 24, 2026]
-## Lesson 254: Hacking Rust Course (Chapter 9: Hacking Compound Data Types)
-This chapter covers hacking compound data types within a Rust program for the x64 architecture.
+# Today's Tutorial [July 25, 2026]
+## Lesson 255: Hacking Rust Course (Chapter 10: Functions)
+This chapter covers functions within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
