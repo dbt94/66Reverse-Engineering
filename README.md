@@ -10,10 +10,16 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# ELECTRONIC HACKER BADGE [HERE](https://www.tindie.com/products/mytechnotalent/ouroboros-badge)
+# OUROBOROS BADGE [HERE](https://www.tindie.com/products/mytechnotalent/ouroboros-badge)
+
+<img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/badges/ouroboros-badge/0x00o.png?raw=true">
+<img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/badges/ouroboros-badge/0x01o.png?raw=true">
+<img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/badges/ouroboros-badge/0x02o.png?raw=true">
+
 #### HOW IT WORKS [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Ouroboros_How_It_Works.pdf)
 #### CLICK IMAGE BELOW TO WATCH THE PROMO VIDEO!
-<p align="center">
+
+<p align="left">
   <a href="https://www.youtube.com/watch?v=p2e2szCZjus">
     <img src="https://img.youtube.com/vi/p2e2szCZjus/maxresdefault.jpg" alt="WATCH THE VIDEO" width="600">
   </a>
@@ -21,9 +27,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [July 25, 2026]
-## Lesson 255: Hacking Rust Course (Chapter 10: Functions)
-This chapter covers functions within a Rust program for the x64 architecture.
+# Today's Tutorial [July 26, 2026]
+## Lesson 256: Hacking Rust Course (Chapter 11: Debugging Functions)
+This chapter covers debugging functions within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
