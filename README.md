@@ -12,10 +12,6 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 # OUROBOROS BADGE [HERE](https://www.tindie.com/products/mytechnotalent/ouroboros-badge)
 
-<img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/badges/ouroboros-badge/0x00o.png?raw=true">
-<img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/badges/ouroboros-badge/0x01o.png?raw=true">
-<img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/badges/ouroboros-badge/0x02o.png?raw=true">
-
 #### HOW IT WORKS [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Ouroboros_How_It_Works.pdf)
 #### CLICK IMAGE BELOW TO WATCH THE PROMO VIDEO!
 
@@ -27,9 +23,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [August 15, 2026]
-## Lesson 270: Hacking Embedded Rust Course w/ microbit (Chapter 4: Advanced System Components)
-This chapter covers the advanced system components for an embedded Rust microbit.
+# Today's Tutorial [August 16, 2026]
+## Lesson 271: Hacking Embedded Rust Course w/ microbit (Chapter 5: Exploitation and Security Assessment)
+This chapter covers the exploitation and security assessment for an embedded Rust microbit.
 
 -> Click [HERE](https://github.com/mytechnotalent/rust_embassy_microbit_project/blob/main/Hacking_Embedded_Rust_w_microbit.pdf) to read the FREE pdf book.
 
