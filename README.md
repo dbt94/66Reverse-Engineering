@@ -23,9 +23,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [September 9, 2026]
-## Lesson 290: Embedded Hacking Course (Chapter 8: Uninitialized Variables)
-This chapter covers uninitialized variables as well as an intro to GPIO outputs as we blink an LED as it relates to embedded development on the Pico 2.
+# Today's Tutorial [September 10, 2026]
+## Lesson 291: Embedded Hacking Course (Chapter 9: Debugging Uninitialized Variables)
+This chapter covers debugging uninitialized variables as well as an intro to GPIO outputs as we blink an LED as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
@@ -46,11 +46,15 @@ Assembled by @0xInfection (Twitter)
 
 # Cryptography
 ## The Ouroboros Engine [HERE](https://github.com/mytechnotalent/ouroboros)
+## The Ouroboros RP2350 [HERE](https://github.com/mytechnotalent/encryption-c-rp2350)
+## The Ouroboros Rust [HERE](https://github.com/mytechnotalent/encryption)
 
 <br>
 
 # Radio
 ## MeshCore Bare [HERE](https://github.com/mytechnotalent/meshcore-bare)
+## MeshCore Bare RP2350 COMING SOON
+## MeshCare Bare ESP32S3 COMING SOON
 ## MeshCore Sniffer [HERE](https://github.com/mytechnotalent/meshcore-sniffer)
 
 <br>
