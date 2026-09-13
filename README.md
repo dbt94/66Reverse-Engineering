@@ -23,9 +23,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [September 11, 2026]
-## Lesson 292: Embedded Hacking Course (Chapter 10: Hacking Uninitialized Variables)
-This chapter covers hacking uninitialized variables as well as an intro to GPIO outputs as we blink an LED as it relates to embedded development on the Pico 2.
+# Today's Tutorial [September 12, 2026]
+## Lesson 293: Embedded Hacking Course (Chapter 11: Integer Data Type)
+This chapter covers the integer data type in addition to a deeper assembler dive into GPIO outputs as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
@@ -52,7 +52,7 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 # Radio
-## MeshCore Bare RP2350 COMING SOON
+## MeshCore Bare RP2350 [HERE](https://github.com/mytechnotalent/meshcore-bare-rp2350)
 ## MeshCare Bare ESP32S3 [HERE](https://github.com/mytechnotalent/meshcore-bare-esp32s3)
 ## MeshCore Bare [HERE](https://github.com/mytechnotalent/meshcore-bare)
 ## MeshCore Sniffer [HERE](https://github.com/mytechnotalent/meshcore-sniffer)
@@ -75,6 +75,11 @@ Assembled by @0xInfection (Twitter)
 
 # MAC/Linux Hacking
 ## Core Dump RE [HERE](https://github.com/mytechnotalent/Core-Dump-RE)
+
+<br>
+
+# IoT Hacking
+## IIA [HERE](https://github.com/mytechnotalent/IIA)
 
 <br>
 
@@ -101,6 +106,7 @@ Assembled by @0xInfection (Twitter)
 
 # AI
 
+## Tiny GPT [HERE](https://github.com/mytechnotalent/TinyGPT)
 ## Minimal Harness [HERE](https://github.com/mytechnotalent/minimal-harness)
 
 <br>
