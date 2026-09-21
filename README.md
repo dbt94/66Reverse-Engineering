@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [September 19, 2026]
-## Lesson 300: Embedded Hacking Course (Chapter 18: Debugging Double Floating-Point Data Type)
-This chapter covers debugging the double floating-point data type as it relates to embedded development on the Pico 2.
+# Today's Tutorial [September 20, 2026]
+## Lesson 301: Embedded Hacking Course (Chapter 19: Hacking Double Floating-Point Data Type)
+This chapter covers hacking the double floating-point data type as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
@@ -69,7 +69,41 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-# CTF's
+# IoT CTF's
+TBD
+
+<br>
+
+# Pico 2 IoT Projects & CTFs & Pi 4B/5 Embedded Linux C IoT Project & CTF
+
+## Act I of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/cold-chain-monitor)
+## Act I of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_cold-chain-monitor)
+## Act II of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/access-gate)
+## Act II of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_access-gate)
+## Act III of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/pipeline-valve-controller)
+## Act III of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_pipeline-valve-controller)
+## Act IV of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/CTF_pipeline-valve-controller)
+## Act IV of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_hvac-automation-node)
+## Act V of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/industrial-tamper-system)
+## Act V of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_industrial-tamper-system)
+## Act VI of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/smart-logistics-dropbox)
+## Act VI of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_smart-logistics-dropbox)
+## Act VII of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/factory-andon-station)
+## Act VII of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_factory-andon-station)
+## Act VIII of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/datacenter-vent-controller)
+## Act VIII of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_datacenter-vent-controller)
+## Act IX of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/smart-parking-barrier)
+## Act IX of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_smart-parking-barrier)
+## Act X of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/chemical-warning-terminal)
+## Act X of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_chemical-warning-terminal)
+## Act X of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/chemical-warning-terminal)
+## Act X of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_chemical-warning-terminal)
+## OPERATION TELESCREEN [HERE](https://github.com/mytechnotalent/telescreen)
+## OPERATION TELESCREEN CTF [HERE](https://github.com/mytechnotalent/CTF_telescreen)
+
+<br>
+
+# DC540 CTF's
 ## DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
 ## DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
 ## DC540 Hacking Challenge 0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003)
