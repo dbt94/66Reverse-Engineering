@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [October 10, 2026]
-## Lesson 321: Embedded Hacking Course (Chapter 39: Debugging Functions, w/ Param, w/ Return)
-This chapter covers debugging functions, w/ params and w/ a return value as well as additional infrared examples as we work a infrared receiver and infrared remote controller as it relates to embedded development on the Pico 2.
+# Today's Tutorial [October 11, 2026]
+## Lesson 322: Embedded Hacking Course (Chapter 40: Hacking Functions, w/ Param, w/ Return)
+This chapter covers hacking functions, w/ params and w/ a return value as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/textbook/Embedded-Hacking.pdf) to read the FREE pdf book.
 
@@ -22,6 +22,12 @@ This chapter covers debugging functions, w/ params and w/ a return value as well
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
+
+<br>
+
+# NEW: Reverse Engineering Assistant
+### Autonomous Reverse Engineering Framework
+## REA [HERE](https://github.com/mytechnotalent/rea)
 
 <br>
 
@@ -123,7 +129,6 @@ Assembled by @0xInfection (Twitter)
 
 ## Tiny GPT [HERE](https://github.com/mytechnotalent/TinyGPT)
 ## Minimal Harness [HERE](https://github.com/mytechnotalent/minimal-harness)
-## REA [HERE](https://github.com/mytechnotalent/rea)
 
 <br>
 
