@@ -6,15 +6,22 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
+
 # Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
 <br>
 
-# Today's Tutorial [October 13, 2026]
-## Lesson 324: Hacking Bits Course (Chapter 2: The Binary Number System)
-This chapter covers the basics of the binary number system.
+# Today's Tutorial [October 14, 2026]
+## Lesson 325: Hacking Bits Course (Chapter 3: The Hexadecimal Number System)
+This chapter covers the basics of the hexadecimal number system.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
+
+<br>
+
+# Reverse Engineering Assistant
+### The reverse-engineering framework you can run anywhere, with nothing installed, and actually trust.
+## REA [HERE](https://github.com/mytechnotalent/rea)
 
 <br>
 
@@ -22,12 +29,6 @@ This chapter covers the basics of the binary number system.
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
-
-<br>
-
-# Reverse Engineering Assistant
-### Autonomous Reverse Engineering Framework
-## REA [HERE](https://github.com/mytechnotalent/rea)
 
 <br>
 
