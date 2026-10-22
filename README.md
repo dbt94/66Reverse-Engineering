@@ -11,17 +11,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [October 20, 2026]
-## Lesson 331: Hacking Bits Course (Chapter 9: IO Driver in C)
-This chapter covers the development and reverse engineering of an IO driver in C.
+# Today's Tutorial [October 21, 2026]
+## Lesson 332: Hacking Bits Course (Chapter 10: STUXNET)
+This chapter covers the development and reverse engineering of an servo motor in C including a mock STUXNET hack.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
-
-<br>
-
-# Reverse Engineering Assistant
-### The reverse-engineering framework you can run anywhere, with nothing installed, and actually trust.
-## REA [HERE](https://github.com/mytechnotalent/rea)
 
 <br>
 
@@ -128,6 +122,7 @@ Assembled by @0xInfection (Twitter)
 
 # AI
 
+## REA [HERE](https://github.com/mytechnotalent/rea)
 ## Tiny GPT [HERE](https://github.com/mytechnotalent/TinyGPT)
 ## Minimal Harness [HERE](https://github.com/mytechnotalent/minimal-harness)
 
